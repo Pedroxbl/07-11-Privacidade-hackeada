@@ -1,0 +1,14 @@
+@import url(css/cabeçalho.css);
+@import url(css/rodapé.css);
+@import url(css/section1.css);
+@import url(css/section2.css);
+
+:root {
+    --fundo-degrade: linear-gradient(to bottom, #CFD1F2, #ffffff);
+}
+
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+

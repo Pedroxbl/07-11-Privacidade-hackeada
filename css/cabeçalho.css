@@ -1,0 +1,20 @@
+@font-face {
+    font-family: JejuGhotic;
+    src: url(JejuGothic-Regular.ttf);
+}
+
+.cabeçalho {
+    background-color: #757899;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 05px;
+    margin: 0 auto;
+}
+
+.Título {
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-family: JejuGhotic;
+}

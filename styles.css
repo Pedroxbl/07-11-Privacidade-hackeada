@@ -3,6 +3,11 @@
 @import url(css/section1.css);
 @import url(css/section2.css);
 
+@font-face {
+    font-family: JejuGhotic;
+    src: url(JejuGothic-Regular.ttf);
+}
+
 :root {
     --fundo-degrade: linear-gradient(to bottom, #CFD1F2, #ffffff);
 }

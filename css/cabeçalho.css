@@ -1,8 +1,3 @@
-@font-face {
-    font-family: JejuGhotic;
-    src: url(JejuGothic-Regular.ttf);
-}
-
 .cabeçalho {
     background-color: #757899;
     display: flex;
